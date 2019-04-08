@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "WebGL Project Upload",
+"dataUrl": "Unity WebGL Test.data.unityweb",
+"asmCodeUrl": "Unity WebGL Test.asm.code.unityweb",
+"asmMemoryUrl": "Unity WebGL Test.asm.memory.unityweb",
+"asmFrameworkUrl": "Unity WebGL Test.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
